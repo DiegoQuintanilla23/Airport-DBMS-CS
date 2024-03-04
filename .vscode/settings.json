@@ -1,0 +1,7 @@
+{
+    "docwriter.language": "Spanish",
+    "docify.commentService.autoTranslationService": "Spanish",
+    "docify.commentService.docstringFormat": "Doxygen",
+    "docify.commentService.programmingLanguage": "c_sharp",
+    "docify.translateService.targetLanguage": "Spanish"
+}
