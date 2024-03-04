@@ -29,6 +29,7 @@ namespace AeropuertoAdminBD
     en C#. 
     Autor: Juan Diego Quintanilla Escalante
     Fecha: 29/11/2023
+    Update: 04/03/24
     */
     public partial class Aeropuerto : Form
     {
